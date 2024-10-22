@@ -1,6 +1,6 @@
 name: ml-zoomcamp
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.11
   - jupyter
@@ -8,4 +8,3 @@ dependencies:
   - pandas
   - scikit-learn
   - seaborn
-prefix: /opt/conda/envs/ml-zoomcamp
